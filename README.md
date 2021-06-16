@@ -1,5 +1,6 @@
 ### face-project
 前端快速自动化项目汇报，减少时间成本
+新增周报生成器，格式要求单一，待完善
 <!--
 **face-project/face-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
